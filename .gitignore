@@ -1,0 +1,6 @@
+__pycache__/
+brain/
+*.h5
+*.ipynb_checkpoints
+.env
+venv/
