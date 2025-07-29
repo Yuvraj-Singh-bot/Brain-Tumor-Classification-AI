@@ -3,6 +3,19 @@
 This project uses a deep learning model to classify brain MRI images into four types of brain tumors. It leverages transfer learning with the **VGG16** architecture and deploys the model using **FastAPI** for web access.
 
 ---
+---
+
+## 🗂 Dataset
+
+The dataset used in this project contains MRI images classified into four categories: **Glioma Tumor**, **Meningioma Tumor**, **Pituitary Tumor**, and **No Tumor**.
+
+📁 **Download from Kaggle**:  
+[Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+- Total Images: ~3,264
+- Format: JPG
+- Organized into subfolders by class
+
 
 ##  Model Highlights
 
